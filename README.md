@@ -1,4 +1,4 @@
-# DOM Drop-Down
+# City Pix
 
 Clone this down to your homework repo, and please remember to **remove the inner git repo**.
 
